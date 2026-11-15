@@ -1,0 +1,4 @@
+﻿base,tabela,periodo,n_linhas,bytes_zip,bytes_csv,bytes_parquet,reducao_pct,pandas_csv_s,pandas_parquet_s,pandas_parquet_x_mais_rapido,duckdb_csv_contar_s,duckdb_parquet_contar_s,duckdb_csv_agrupar_s,duckdb_parquet_agrupar_s,coluna_agrupada,observacao
+bolsa_familia_pagamentos,bolsa_familia_pagamentos,202003,13089276,240037050,1473058548,132410004,91.0,,,,6.416,0.078,4.77,0.049,UF,"CSV de 1,5 GB acima do limite: pandas não medido"
+auxilio_brasil,auxilio_brasil,202112,14184940,261057186,1597115191,144197478,91.0,,,,4.544,0.024,3.651,0.157,UF,"CSV de 1,5 GB acima do limite: pandas não medido"
+novo_bolsa_familia,novo_bolsa_familia,202511,18313365,323419904,2022028961,167730950,91.7,,,,4.961,0.014,5.75,0.316,UF,"CSV de 1,9 GB acima do limite: pandas não medido"

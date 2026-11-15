@@ -1,0 +1,10 @@
+# Coleta (src/)
+requests>=2.31
+duckdb>=1.2
+pyarrow>=15
+pandas>=2.1
+
+# Notebooks (EDA e visualizações)
+matplotlib>=3.8
+jupyter>=1.0
+geopandas>=1.0  # mapa coroplético com a malha do IBGE

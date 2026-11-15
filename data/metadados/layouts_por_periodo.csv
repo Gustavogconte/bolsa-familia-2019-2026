@@ -1,0 +1,5 @@
+﻿base,tabela,versao_layout,primeiro_periodo,ultimo_periodo,n_periodos,n_colunas,colunas_novas,colunas_retiradas,encoding,colunas
+auxilio_brasil,auxilio_brasil,1,202111,202302,16,9,,,cp1252,MÊS COMPETÊNCIA | MÊS REFERÊNCIA | UF | CÓDIGO MUNICÍPIO SIAFI | NOME MUNICÍPIO | CPF FAVORECIDO | NIS FAVORECIDO | NOME FAVORECIDO | VALOR PARCELA
+bolsa_familia_pagamentos,bolsa_familia_pagamentos,1,201901,202110,34,9,,,cp1252,MÊS COMPETÊNCIA | MÊS REFERÊNCIA | UF | CÓDIGO MUNICÍPIO SIAFI | NOME MUNICÍPIO | CPF FAVORECIDO | NIS FAVORECIDO | NOME FAVORECIDO | VALOR PARCELA
+bolsa_familia_pagamentos,bolsa_familia_pagamentos,2,202111,202111,1,9,,,cp1252,MÊS REFERÊNCIA | MÊS COMPETÊNCIA | UF | CÓDIGO MUNICÍPIO SIAFI | NOME MUNICÍPIO | CPF FAVORECIDO | NIS FAVORECIDO | NOME FAVORECIDO | VALOR PARCELA
+novo_bolsa_familia,novo_bolsa_familia,1,202303,202609,43,9,,,cp1252,MÊS COMPETÊNCIA | MÊS REFERÊNCIA | UF | CÓDIGO MUNICÍPIO SIAFI | NOME MUNICÍPIO | CPF FAVORECIDO | NIS FAVORECIDO | NOME FAVORECIDO | VALOR PARCELA

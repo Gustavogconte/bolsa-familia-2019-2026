@@ -1,0 +1,24 @@
+# Dados grandes não vão para o repositório: o script de coleta recria tudo
+data/bronze/*
+!data/bronze/.gitkeep
+data/silver/*
+!data/silver/.gitkeep
+data/gold/*
+!data/gold/.gitkeep
+data/_tmp/
+data/_zips/
+
+# Metadados pequenos VÃO para o repositório (data/metadados/*.csv, manifesto_coleta.jsonl);
+# logs e amostras de linhas rejeitadas (podem conter dados pessoais) ficam de fora
+data/metadados/logs/
+data/metadados/rejeitadas/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Resumos da EDA (recriados por src/eda.py)
+data/_eda/

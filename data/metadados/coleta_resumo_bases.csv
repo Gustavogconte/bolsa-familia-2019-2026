@@ -1,0 +1,4 @@
+﻿base,nome,periodos_ok,periodos_indisponiveis,periodos_com_erro,primeiro_periodo,ultimo_periodo,tabelas,n_linhas,n_rejeitadas,bytes_zip,bytes_csv,bytes_parquet,reducao_csv_para_parquet_pct,csv_vezes_maior_que_parquet,reducao_zip_para_parquet_pct,tentativas_extras
+bolsa_familia_pagamentos,Bolsa Família - Pagamentos,35,0,0,201901,202111,1,494674172,0,9055082191,55638662659,5002714851,91.0,11.12,44.8,0
+auxilio_brasil,Auxílio Brasil,16,0,0,202111,202302,1,293956157,0,5169777157,32782498325,2823642579,91.4,11.61,45.4,0
+novo_bolsa_familia,Novo Bolsa Família,43,0,0,202303,202609,1,859194021,0,15176689973,94936742130,8045580208,91.5,11.8,47.0,0
